@@ -1,3 +1,4 @@
 Name: Maja Stankovic
 From: Nis - Serbia
-Hobbies - Yoga
+Hobbies: Yoga
+email: stankovic.maja@gmail.com
