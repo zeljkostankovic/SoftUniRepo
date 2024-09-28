@@ -2,3 +2,4 @@ Name: Aleksandra Djermanovic
 From: Beograd
 Hobbies: Kuvanje
 email: aleksdjerma@gmail.com
+favorite book: " Kad je Nice plakao"
